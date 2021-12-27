@@ -1,7 +1,7 @@
 #Original script for rasphone and UDP encapsulation: https://pastebin.com/9nLjeJ5B
 
 #Variables
-$ConnectionName = 'ArrayString0'
+$ConnectionName = 'VPN Friendly Name spaces allowed'
 $ServerAddress = 'meraki-dynamic-ip-address-dynamic-m.com'
 $PresharedKey = 'PreSharedKeySecret'
 $DNSSuffix = 'company.local'
