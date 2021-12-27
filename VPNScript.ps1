@@ -2,7 +2,7 @@
 
 #Variables
 $ConnectionName = 'VPN Friendly Name spaces allowed'
-$ServerAddress = 'meraki-dynamic-ip-address-dynamic-m.com'
+$ServerAddress = 'meraki-dynamic-ip-address-dynamic-m.com' #Note, if you have issues, I recommend trying WAN Ip address instead of the providied Meraki dynamic address found in the portal.
 $PresharedKey = 'PreSharedKeySecret'
 $DNSSuffix = 'company.local'
 $Subnet = '10.10.10.0/24'
